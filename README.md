@@ -1,1 +1,1 @@
-# personal-profile
+ruplicating the personal profile design in HTMl 
